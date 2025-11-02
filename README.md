@@ -26,10 +26,6 @@ Builds a machine learning–based fraud detection system that identifies fraudul
 - **Deployment**
   - **Flask API** backend for inference  
   - **Streamlit UI** frontend for user input and live prediction
-
-
-
-
   - Random transaction generation for testing
 
 ---
